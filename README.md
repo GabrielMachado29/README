@@ -43,3 +43,7 @@ Formação
 - Técnico em Desenvolvimento de Sistemas
   Concluído em 2025.
 Tenho interesse em oportunidades de aprendizado e colaboração em Dados, BI, automação e IA aplicada.
+
+Youtube: https://www.youtube.com/@gabrielz.machado
+Linkedin: www.linkedin.com/in/gabrielmachad0
+Instagram: gabriel.zmachado
