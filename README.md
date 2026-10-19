@@ -44,6 +44,8 @@ Formação
   Concluído em 2025.
 Tenho interesse em oportunidades de aprendizado e colaboração em Dados, BI, automação e IA aplicada.
 
-Youtube: https://www.youtube.com/@gabrielz.machado
-Linkedin: www.linkedin.com/in/gabrielmachad0
-Instagram: gabriel.zmachado
+## Conecte-se comigo
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gabrielz.machado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmachad0/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.zmachado/)
